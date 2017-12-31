@@ -1,8 +1,16 @@
 ## Welcome to My Website!
 
-You can use the [editor on GitHub](https://github.com/maral-hd2/maralazizi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate working in Research Innovation in Software Engineering (RISE) laboratory at university of North Texas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research includes working on problems on evolution-aware testing techniques for object-oriented systems, including test selection, prioritization and automation.
+The current research is focused on:
+1) Developing cost-effective regression testing techniques that address the testing process and domain contexts, 
+2) Developing economic models that enable the adequate assessment of techniques and strategies, 
+3) Empirical methodologies to evaluate cost-benefits related to testing techniques considering various factors such as testing context and a system's lifetime, and 
+4) Empirical evaluation which involves various research questions on software testing techniques and problems.
+
+
+
 
 ### Markdown
 
@@ -11,9 +19,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About Me 1
+## Contact Me 2
+### Research 3
+#### Publications 4
+##### Tutorials 5
 
 - Bulleted
 - List
